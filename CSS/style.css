@@ -1,0 +1,41 @@
+body{
+  width:995px;
+  margin:auto;
+}
+
+#parent{
+  text-align: center;
+  color:white;
+}
+
+header{
+	width:995px;
+	height:70px;
+	background:#00a651;
+  line-height:70px;
+}
+#section1{
+  width:995px;
+  height:500px;
+  background: #7cc576;
+  line-height:500px;
+}
+.B1{
+  width:320px;
+  height: 470px;
+  margin:5px;
+  background: #00a651;
+  line-height: 470px;
+  float: left;
+}
+#dummy{
+  clear:both;
+}
+footer{
+  width:995px;
+  height: 150px;
+  background:#00a651;
+  line-height:150px;
+  clear:both;
+}
+
